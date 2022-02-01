@@ -1,0 +1,127 @@
+
+
+ Message Text                             
+
+ Validation started                       
+ End of Validation Step                   
+ Business Partner 0000001110              
+ No jurisdiction code could be determined 
+ Validation finished                      
+
+
+
+
+
+
+
+ Message Text                             
+
+ Validation started                       
+ End of Validation Step                   
+ Business Partner 0000001113              
+ No jurisdiction code could be determine111d 
+ Validation finished                      
+
+
+
+
+
+
+
+ Message Text                             
+
+ Validation started                       
+ End of Validation Step                   
+ Business Partner 0000001115              
+ Postal code 16900 must have th22222e length 6 
+ Specify a valid country indicator        
+ Validation finished                      
+
+
+
+
+
+
+
+ Message Text                             
+
+ Validation started                       
+ End of Validation Step                   
+ Business Partner 0000001120              
+ No jurisdiction code could be det33333ermined 
+ Specify a valid country indicator        
+ Validation finished                      
+
+
+
+
+
+
+
+ Message Text                                            
+
+ Validation started                                      
+ End of Validation Step                                  
+ Business Partner 0000001123                             
+ The postal code 080544101 must h44444ave a length of 5 or 10 
+ Validation finished                                     
+
+
+
+
+
+
+
+ Message Text                                  
+
+ Validation started                            
+ End of Validation Step                        
+ Business Partner 0000001130                   
+ Postal code CS 50402 V must have the length 5 
+ Validation finished                           
+
+
+
+
+
+
+
+ Message Text                                            
+
+ Validation started                                      
+ End of Validation Step                                  
+ Business Partner 0000001132                             
+ Number 913.905.8077 contains invalid special characters 
+ Validation finished                                     
+
+
+
+
+
+
+
+ Message Text                                                          
+
+ Validation started                                                    
+ End of Validation Step                                                
+ Business Partner 0000001145                                           
+ Telephone number has more than 20 characters                          
+ Number 1 (732)-413-6000 ext. 7145 contains invalid special characters 
+ Validation finished                                                   
+
+
+
+
+
+
+
+ Message Text                                            
+
+ Validation started                                      
+ End of Validation Step                                  
+ Business Partner 0000001148                             
+ Number 248.203.8991 contains invalid special characters 
+ Validation finished                                     
+
+
+
